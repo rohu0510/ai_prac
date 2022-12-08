@@ -116,3 +116,5 @@ def bfs_connected_component(graph, start, goal):
             
     return "Goal not found"
 print(bfs_connected_component(graph, 'arad', 'bucharest'))
+
+//great
